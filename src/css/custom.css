@@ -1,0 +1,48 @@
+/* Estilo para os itens da sidebar que não são categorias */
+.menu__list-item:not(.theme-doc-sidebar-item-category) .menu__link {
+  font-weight: normal;
+}
+
+/* Estilo para as categorias da sidebar */
+.menu__list-item.theme-doc-sidebar-item-category > .menu__link {
+  font-weight: bold;
+}
+
+/* Estilo para tornar os cards clicáveis mais interativos */
+.cardContainer {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.cardContainer:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px 0 rgba(0,0,0,0.1);
+}
+
+/* Cores personalizadas para os títulos */
+:root {
+  --ifm-color-primary: #D17A22; /* Cor base laranja */
+  --ifm-color-primary-dark: #B66A1C; /* Um pouco mais escuro */
+  --ifm-color-primary-darker: #9E5A17; /* Mais escuro ainda */
+  --ifm-color-primary-darkest: #7F4713; /* O mais escuro para maior contraste */
+  --ifm-color-primary-light: #E58942; /* Mais claro */
+  --ifm-color-primary-lighter: #F7A264; /* Laranja claro */
+  --ifm-color-primary-lightest: #FACD96; /* O mais claro */
+}
+
+/* Estilos para os títulos */
+.markdown h1 {
+  color: var(--ifm-color-primary-darkest);
+}
+
+.markdown h2 {
+  color: var(--ifm-color-primary-darker);
+}
+
+.markdown h3 {
+  color: var(--ifm-color-primary-dark);
+}
+
+.markdown h4 {
+  color: var(--ifm-color-primary);
+}
