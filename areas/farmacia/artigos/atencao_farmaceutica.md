@@ -1,4 +1,3 @@
-
 # Atenção Farmacêutica
 
 ## Introdução
@@ -34,11 +33,15 @@ Indicadores como adesão ao tratamento, incidência de reações adversas e sati
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que é Atenção Farmacêutica?</summary>
+<summary><strong>O que é Atenção Farmacêutica?</strong></summary>
+<p>
 A Atenção Farmacêutica é uma prática clínica focada no paciente, que visa promover o uso racional de medicamentos e melhorar os resultados terapêuticos.
+</p>
 </details>
 
 <details>
-<summary>Quais são os principais desafios na Atenção Farmacêutica?</summary>
+<summary><strong>Quais são os principais desafios na Atenção Farmacêutica?</strong></summary>
+<p>
 Os principais desafios incluem garantir o uso racional de medicamentos, minimizar riscos e integrar o farmacêutico na equipe de saúde.
+</p>
 </details>

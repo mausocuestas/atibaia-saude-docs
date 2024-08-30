@@ -37,12 +37,16 @@ Este manual tem como objetivo orientar os profissionais de saúde sobre os proce
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como é realizada a inspeção de estabelecimentos na Vigilância Sanitária?</summary>
+<summary><strong>Como é realizada a inspeção de estabelecimentos na Vigilância Sanitária?</strong></summary>
+<p>
 A inspeção de estabelecimentos envolve uma avaliação in loco, coleta de amostras e análise documental para verificar a conformidade com as normas sanitárias.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas em caso de não conformidades?</summary>
+<summary><strong>Quais são as ações corretivas em caso de não conformidades?</strong></summary>
+<p>
 As ações corretivas incluem a notificação do estabelecimento, autuação, e aplicação de penalidades conforme a gravidade da não conformidade.
+</p>
 </details>
     

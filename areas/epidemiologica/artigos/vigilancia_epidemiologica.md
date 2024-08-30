@@ -35,11 +35,15 @@ A vigilância eficaz permite a detecção precoce de surtos, a implementação r
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que é vigilância epidemiológica?</summary>
+<summary><strong>O que é vigilância epidemiológica?</strong></summary>
+<p>
 A vigilância epidemiológica é a prática de monitorar a ocorrência de doenças na população, coletando e analisando dados para orientar ações de controle e prevenção.
+</p>
 </details>
 
 <details>
-<summary>Quais são os tipos de vigilância epidemiológica?</summary>
+<summary><strong>Quais são os tipos de vigilância epidemiológica?</strong></summary>
+<p>
 Os tipos incluem vigilância ativa, passiva, sentinela, de eventos e genômica, cada uma com um foco específico na detecção e monitoramento de doenças.
+</p>
 </details>

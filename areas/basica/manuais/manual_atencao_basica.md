@@ -36,12 +36,16 @@ Este manual fornece diretrizes para a organização e execução dos serviços d
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Quais são os principais princípios da Atenção Básica?</summary>
+<summary><strong>Quais são os principais princípios da Atenção Básica?</strong></summary>
+<p>
 Os principais princípios incluem universalidade, integralidade, equidade e participação social, garantindo um atendimento de qualidade a toda a população.
+</p>
 </details>
 
 <details>
-<summary>Como é realizada a cobertura vacinal na Atenção Básica?</summary>
+<summary><strong>Como é realizada a cobertura vacinal na Atenção Básica?</strong></summary>
+<p>
 A cobertura vacinal é realizada através da aplicação de vacinas conforme o calendário nacional, com intensificação de campanhas em áreas com baixa cobertura.
+</p>
 </details>
     

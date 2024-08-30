@@ -37,12 +37,16 @@ Este manual é voltado para os profissionais de farmácia, fornecendo orientaç�
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como é realizado o acompanhamento farmacoterapêutico?</summary>
+<summary><strong>Como é realizado o acompanhamento farmacoterapêutico?</strong></summary>
+<p>
 O acompanhamento farmacoterapêutico envolve o monitoramento contínuo dos pacientes em tratamento medicamentoso, incluindo a avaliação de eficácia e segurança dos medicamentos.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas em caso de reações adversas a medicamentos?</summary>
+<summary><strong>Quais são as ações corretivas em caso de reações adversas a medicamentos?</strong></summary>
+<p>
 As ações corretivas incluem ajustes no tratamento, substituição de medicamentos e notificação das reações adversas às autoridades competentes.
+</p>
 </details>
     

@@ -32,12 +32,16 @@ Os desafios incluem a complexidade dos processos de auditoria, a necessidade de 
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Quais são as principais leis que regem a Auditoria em Saúde Pública?</summary>
+<summary><strong>Quais são as principais leis que regem a Auditoria em Saúde Pública?</strong></summary>
+<p>
 As principais leis incluem a Lei nº 8.080/1990 (Lei Orgânica da Saúde), a Lei nº 12.527/2011 (Lei de Acesso à Informação) e as portarias que regulamentam a auditoria no SUS.
+</p>
 </details>
 
 <details>
-<summary>Quais são os desafios na implementação da legislação de auditoria em saúde pública?</summary>
+<summary><strong>Quais são os desafios na implementação da legislação de auditoria em saúde pública?</strong></summary>
+<p>
 Os desafios incluem a complexidade dos processos de auditoria, a necessidade de atualização constante das normativas e a capacitação dos auditores.
+</p>
 </details>
     

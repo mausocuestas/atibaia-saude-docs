@@ -32,12 +32,16 @@ Os desafios incluem a subnotificação de casos, a necessidade de integração e
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Quais são as principais leis que regem a Vigilância Epidemiológica?</summary>
+<summary><strong>Quais são as principais leis que regem a Vigilância Epidemiológica?</strong></summary>
+<p>
 As principais leis incluem a Lei nº 6.259/1975, a Lei nº 13.979/2020 e diversas portarias que regulamentam as ações de vigilância em saúde.
+</p>
 </details>
 
 <details>
-<summary>Quais são os desafios na implementação da legislação de Vigilância Epidemiológica?</summary>
+<summary><strong>Quais são os desafios na implementação da legislação de Vigilância Epidemiológica?</strong></summary>
+<p>
 Os desafios incluem a subnotificação de casos, a necessidade de integração entre sistemas de informação e a capacitação dos profissionais.
+</p>
 </details>
     

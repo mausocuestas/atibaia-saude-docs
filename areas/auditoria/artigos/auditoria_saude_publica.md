@@ -35,11 +35,15 @@ A auditoria contribui para a transparência, accountability e melhoria da qualid
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que é auditoria operacional em saúde pública?</summary>
+<summary><strong>O que é auditoria operacional em saúde pública?</strong></summary>
+<p>
 A auditoria operacional é a avaliação da eficiência e eficácia dos serviços de saúde, buscando identificar áreas de melhoria e boas práticas de gestão.
+</p>
 </details>
 
 <details>
-<summary>Como a auditoria em saúde pública impacta a gestão dos serviços de saúde?</summary>
+<summary><strong>Como a auditoria em saúde pública impacta a gestão dos serviços de saúde?</strong></summary>
+<p>
 A auditoria promove a transparência e a accountability, ajudando a melhorar a qualidade e a eficiência dos serviços prestados à população.
+</p>
 </details>

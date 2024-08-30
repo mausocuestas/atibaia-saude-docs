@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'prefeitura-atibaia', // Usually your GitHub org/user name.
+  organizationName: 'mausocuestas', // Usually your GitHub org/user name.
   projectName: 'saude-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -33,20 +33,20 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      '@docusaurus/preset-classic',
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/prefeitura-atibaia/saude-docs/tree/main/',
+            'https://github.com/mausocuestas/saude-docs/tree/main/',
+          remarkPlugins: [require('remark-mdx')],
         },
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
@@ -58,6 +58,8 @@ const config = {
         path: 'areas',
         routeBasePath: 'areas',
         sidebarPath: require.resolve('./sidebarsAreas.js'),
+        sidebarCollapsible: true, // Isso fará com que todos os itens fiquem expandidos por padrão
+        sidebarCollapsed: true,
       },
     ],
     // ... outros plugins
@@ -67,17 +69,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/smscardioLogo.png',
       navbar: {
-        title: 'SMS Atibaia',
+        title: 'Início',
         logo: {
           alt: 'Logo SMS Atibaia',
-          src: 'img/logo.svg',
+          src: 'img/smscardioLogo.png',
         },
         items: [
           {to: '/', label: 'Início', position: 'left'},
           {to: '/areas', label: 'Áreas', position: 'left'},
-          {to: '/docs/intro', label: 'Documentos', position: 'left'},
+          {to: '/areas/intro', label: 'Documentos', position: 'left'},
           {
             type: 'search',
             position: 'right',
@@ -130,7 +132,7 @@ const config = {
       },
       docs: {
         sidebar: {
-          hideable: true,
+          hideable: false,
           autoCollapseCategories: true,
         },
       },

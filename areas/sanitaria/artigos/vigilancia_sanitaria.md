@@ -35,11 +35,15 @@ Indicadores como o número de inspeções realizadas, o cumprimento das normas s
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que é Vigilância Sanitária?</summary>
+<summary><strong>O que é Vigilância Sanitária?</strong></summary>
+<p>
 A Vigilância Sanitária é o conjunto de ações capazes de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde.
+</p>
 </details>
 
 <details>
-<summary>Quais são as principais áreas de atuação da Vigilância Sanitária?</summary>
+<summary><strong>Quais são as principais áreas de atuação da Vigilância Sanitária?</strong></summary>
+<p>
 As principais áreas incluem alimentos, medicamentos, serviços de saúde, produtos para a saúde e saneantes.
+</p>
 </details>

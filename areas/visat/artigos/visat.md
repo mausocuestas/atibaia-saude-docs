@@ -35,11 +35,15 @@ Indicadores como a redução de acidentes de trabalho, a detecção precoce de d
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que é VISAT?</summary>
+<summary><strong>O que é VISAT?</strong></summary>
+<p>
 A VISAT é a Vigilância em Saúde do Trabalhador, que visa identificar, prevenir e controlar os riscos relacionados ao ambiente de trabalho, garantindo a saúde e segurança dos trabalhadores.
+</p>
 </details>
 
 <details>
-<summary>Quais são as áreas de atuação da VISAT?</summary>
+<summary><strong>Quais são as áreas de atuação da VISAT?</strong></summary>
+<p>
 As principais áreas incluem a identificação de riscos, investigação de acidentes de trabalho, monitoramento de doenças ocupacionais, educação e prevenção, e fiscalização e normatização.
+</p>
 </details>

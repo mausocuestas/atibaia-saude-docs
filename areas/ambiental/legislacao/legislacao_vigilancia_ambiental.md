@@ -32,12 +32,16 @@ Os principais desafios incluem a falta de recursos, a necessidade de capacitaç�
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Quais são as principais leis que regem a Vigilância Ambiental?</summary>
+<summary><strong>Quais são as principais leis que regem a Vigilância Ambiental?</strong></summary>
+<p>
 As principais leis incluem a Lei nº 6.938/1981 (Política Nacional do Meio Ambiente), a Lei nº 9.605/1998 (Lei de Crimes Ambientais) e diversas resoluções do CONAMA.
+</p>
 </details>
 
 <details>
-<summary>Quais são os desafios na implementação da legislação ambiental?</summary>
+<summary><strong>Quais são os desafios na implementação da legislação ambiental?</strong></summary>
+<p>
 Os desafios incluem a escassez de recursos, a necessidade de capacitação dos profissionais e a complexidade das normas.
+</p>
 </details>
     

@@ -37,12 +37,16 @@ Este manual é destinado aos profissionais de saúde pública e segurança do tr
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como é realizada a identificação de riscos ocupacionais?</summary>
+<summary><strong>Como é realizada a identificação de riscos ocupacionais?</strong></summary>
+<p>
 A identificação de riscos ocupacionais é realizada através da avaliação de ambientes de trabalho, entrevistas com trabalhadores e análise de processos produtivos.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas após a investigação de acidentes de trabalho?</summary>
+<summary><strong>Quais são as ações corretivas após a investigação de acidentes de trabalho?</strong></summary>
+<p>
 As ações corretivas incluem a recomendação de alterações nos processos de trabalho e o reforço de medidas de segurança para prevenir futuras ocorrências.
+</p>
 </details>
     

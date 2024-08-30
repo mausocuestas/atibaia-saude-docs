@@ -1,6 +1,6 @@
 ---
 title: Artigos de Epidemiologia
-description: Esta página lista todos os artigos relacionados à área de Epidemiologia, organizados em ordem cronológica decrescente.
+description: Lista de todos os artigos da área epidemiológica
 ---
 
 import ArticleList from '@site/src/components/ArticleList';

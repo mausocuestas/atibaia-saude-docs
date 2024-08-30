@@ -37,12 +37,16 @@ Este manual visa orientar os profissionais de saúde pública sobre as práticas
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como realizar o monitoramento eficaz da qualidade da água?</summary>
+<summary><strong>Como realizar o monitoramento eficaz da qualidade da água?</strong></summary>
+<p>
 O monitoramento deve ser realizado mensalmente, com coleta de amostras em pontos estratégicos e análise laboratorial dos parâmetros físico-químicos e microbiológicos.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas em caso de alta infestação de vetores?</summary>
+<summary><strong>Quais são as ações corretivas em caso de alta infestação de vetores?</strong></summary>
+<p>
 Implementação de barreiras físicas e químicas adicionais, além de intensificação das campanhas de conscientização.
+</p>
 </details>
     

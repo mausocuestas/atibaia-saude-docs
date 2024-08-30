@@ -37,12 +37,16 @@ Este manual tem como objetivo fornecer diretrizes claras e práticas para a cond
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como é realizada a auditoria operacional em saúde pública?</summary>
+<summary><strong>Como é realizada a auditoria operacional em saúde pública?</strong></summary>
+<p>
 A auditoria operacional envolve a revisão de processos, entrevistas com funcionários, análise de documentos e observação direta, visando melhorar a eficiência e eficácia dos serviços.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas em uma auditoria financeira?</summary>
+<summary><strong>Quais são as ações corretivas em uma auditoria financeira?</strong></summary>
+<p>
 Ações corretivas incluem ajustes nos registros contábeis e reforço nos controles financeiros para garantir a conformidade com as normas vigentes.
+</p>
 </details>
     

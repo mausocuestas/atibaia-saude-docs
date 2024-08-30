@@ -36,12 +36,16 @@ Este manual é destinado aos profissionais de saúde pública, fornecendo orient
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como é realizada a coleta de dados na Vigilância Epidemiológica?</summary>
+<summary><strong>Como é realizada a coleta de dados na Vigilância Epidemiológica?</strong></summary>
+<p>
 A coleta de dados é realizada de forma contínua, utilizando relatórios de casos, vigilância ativa e passiva, e monitoramento de indicadores de saúde.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas para áreas com aumento de casos?</summary>
+<summary><strong>Quais são as ações corretivas para áreas com aumento de casos?</strong></summary>
+<p>
 As ações corretivas incluem a investigação epidemiológica, implementação de medidas de controle e comunicação com as autoridades de saúde.
+</p>
 </details>
     

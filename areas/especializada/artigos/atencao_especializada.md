@@ -34,11 +34,15 @@ Indicadores como tempo de espera para consultas, taxas de complicações pós-ci
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que caracteriza a Atenção Especializada?</summary>
+<summary><strong>O que caracteriza a Atenção Especializada?</strong></summary>
+<p>
 A Atenção Especializada é caracterizada pela oferta de serviços de média e alta complexidade, como consultas com especialistas, cirurgias e tratamentos complexos.
+</p>
 </details>
 
 <details>
-<summary>Como é medido o desempenho da Atenção Especializada?</summary>
+<summary><strong>Como é medido o desempenho da Atenção Especializada?</strong></summary>
+<p>
 O desempenho é medido por meio de indicadores como o tempo de espera para consultas, a taxa de complicações pós-cirúrgicas e a adesão ao tratamento.
+</p>
 </details>

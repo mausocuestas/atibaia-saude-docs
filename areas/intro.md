@@ -10,4 +10,4 @@ Bem-vindo à seção de documentação da Vigilância Ambiental. Aqui você enco
 
 import DocumentTypeCards from '@site/src/components/DocumentTypeCards';
 
-<DocumentTypeCards areaPath="/areas" />
+<DocumentTypeCards areaPath="/areas/" />

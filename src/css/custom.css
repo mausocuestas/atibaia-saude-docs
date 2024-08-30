@@ -21,28 +21,107 @@
 
 /* Cores personalizadas para os títulos */
 :root {
-  --ifm-color-primary: #D17A22; /* Cor base laranja */
-  --ifm-color-primary-dark: #B66A1C; /* Um pouco mais escuro */
-  --ifm-color-primary-darker: #9E5A17; /* Mais escuro ainda */
-  --ifm-color-primary-darkest: #7F4713; /* O mais escuro para maior contraste */
-  --ifm-color-primary-light: #E58942; /* Mais claro */
-  --ifm-color-primary-lighter: #F7A264; /* Laranja claro */
-  --ifm-color-primary-lightest: #FACD96; /* O mais claro */
+  --ifm-color-primary: #e14a31; /* Cor base vermelho coral */
+  --ifm-color-primary-dark: #c7432b; /* Um pouco mais escuro */
+  --ifm-color-primary-darker: #a63b25; /* Mais escuro ainda */
+  --ifm-color-primary-darkest: #84301e; /* O mais escuro para maior contraste */
+  --ifm-color-primary-light: #ea6a52; /* Mais claro */
+  --ifm-color-primary-lighter: #f2887a; /* Vermelho coral claro */
+  --ifm-color-primary-lightest: #f8b3a5; /* O mais claro */  
+  --doc-sidebar-width: 300px; /* Largura da sidebar */
+  --doc-sidebar-padding: 1rem; /* Espaço entre a sidebar e a borda esquerda */
+  --main-content-max-width: 1700px; /* Largura máxima do conteúdo principal */
 }
 
 /* Estilos para os títulos */
 .markdown h1 {
-  color: var(--ifm-color-primary-darkest);
+  font-size: 2rem; /* Ajuste o tamanho conforme necessário */
+  /* Você pode adicionar outras propriedades, como cor, peso, etc. */
+  color: var(--ifm-color-primary-darkest); /* Exemplo de cor */
 }
 
 .markdown h2 {
+  font-size: 1.5rem; /* Ajuste o tamanho conforme necessário */
+  /* Você pode adicionar outras propriedades, como cor, peso, etc. */
   color: var(--ifm-color-primary-darker);
 }
 
 .markdown h3 {
+  font-size: 1.3rem; /* Ajuste o tamanho conforme necessário */
+  /* Você pode adicionar outras propriedades, como cor, peso, etc. */
   color: var(--ifm-color-primary-dark);
+  margin-left: 20px; /* Ajuste o valor conforme necessário para o recuo */
 }
 
 .markdown h4 {
+  font-size: 1rem; /* Ajuste o tamanho conforme necessário */
+  /* Você pode adicionar outras propriedades, como cor, peso, etc. */
   color: var(--ifm-color-primary);
+}
+
+/* Estilo para a navbar */
+.navbar {
+  box-shadow: none;
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+}
+
+/* Estilo para a sidebar */
+.theme-doc-sidebar-container {
+  border-right: 1px solid var(--ifm-toc-border-color);
+}
+
+.menu__link {
+  font-size: 14px;
+}
+
+.menu__link--active {
+  font-weight: bold;
+}
+
+/* Estilo para os itens da sidebar que não são categorias */
+.menu__list-item:not(.theme-doc-sidebar-item-category) .menu__link {
+  padding-left: 1.3rem;
+}
+
+/* Estilo para as categorias da sidebar */
+.menu__list-item.theme-doc-sidebar-item-category > .menu__link {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: var(--ifm-color-primary);
+}
+
+/* Ajuste do espaçamento na sidebar */
+.theme-doc-sidebar-menu {
+  padding-top: 0.8rem;
+}
+
+/* Estilo para o conteúdo principal */
+.main-wrapper {
+  display: flex;
+  justify-content: flex-start; /* Alinha o conteúdo à esquerda */
+  max-width: var(--main-content-max-width);
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.docSidebarContainer {
+  width: var(--doc-sidebar-width);
+  margin-left: var(--doc-sidebar-padding);
+  padding-left: 0;
+}
+
+.docMainContainer {
+  flex: 1;
+  max-width: calc(100% - var(--doc-sidebar-width) - var(--doc-sidebar-padding));
+  margin-left: var(--doc-sidebar-padding);
+}
+
+.container {
+  max-width: var(--main-content-max-width);
+  padding: 0 2rem;
+}
+
+.col {
+  padding: 0 1rem;
 }

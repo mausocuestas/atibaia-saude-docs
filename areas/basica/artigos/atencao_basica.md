@@ -34,11 +34,15 @@ Indicadores como cobertura vacinal, controle de doenças crônicas e satisfaçã
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que caracteriza a Atenção Básica?</summary>
+<summary><strong>O que caracteriza a Atenção Básica?</strong></summary>
+<p>
 A Atenção Básica caracteriza-se pela oferta de serviços essenciais de saúde, acessíveis e próximos à comunidade, visando a promoção, prevenção, diagnóstico, tratamento e reabilitação.
+</p>
 </details>
 
 <details>
-<summary>Como é medido o desempenho da Atenção Básica?</summary>
+<summary><strong>Como é medido o desempenho da Atenção Básica?</strong></summary>
+<p>
 O desempenho é medido por meio de indicadores como cobertura vacinal, controle de doenças crônicas e a satisfação dos usuários.
+</p>
 </details>

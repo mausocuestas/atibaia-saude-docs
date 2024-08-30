@@ -1,3 +1,11 @@
+---
+title: Introdução à Saúde Ambiental
+date: 2024-08-15
+tags: [água, monitoramento, ambiental]
+category: artigo
+sector: ambiental
+authors: [Maria Silva, João Oliveira]
+---
 
 # Vigilância Ambiental
 
@@ -35,11 +43,15 @@ A efetiva vigilância ambiental resulta na redução da incidência de doenças 
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>O que é vigilância ambiental?</summary>
+<summary><strong>O que é vigilância ambiental?</strong></summary>
+<p>
 A vigilância ambiental é o monitoramento e controle de fatores ambientais que podem impactar a saúde da população, como a qualidade da água, do ar e a presença de vetores de doenças.
+</p>
 </details>
 
 <details>
-<summary>Quais são os principais desafios da vigilância ambiental?</summary>
+<summary><strong>Quais são os principais desafios da vigilância ambiental?</strong></summary>
+<p>
 Os principais desafios incluem a escassez de recursos, a necessidade de capacitação e a integração entre setores.
+</p>
 </details>

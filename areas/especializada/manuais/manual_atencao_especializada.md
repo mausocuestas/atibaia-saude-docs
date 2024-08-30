@@ -37,12 +37,16 @@ Este manual visa orientar os profissionais de saúde sobre a organização e a p
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Como é organizada a prestação de serviços na Atenção Especializada?</summary>
+<summary><strong>Como é organizada a prestação de serviços na Atenção Especializada?</strong></summary>
+<p>
 Os serviços de Atenção Especializada são organizados para oferecer cuidados de média e alta complexidade, incluindo consultas, exames diagnósticos e cirurgias, de acordo com a demanda do paciente.
+</p>
 </details>
 
 <details>
-<summary>Quais são as ações corretivas em caso de complicações pós-cirúrgicas?</summary>
+<summary><strong>Quais são as ações corretivas em caso de complicações pós-cirúrgicas?</strong></summary>
+<p>
 Ações corretivas incluem a revisão do plano de tratamento, monitoramento intensivo do paciente e, se necessário, intervenções adicionais.
+</p>
 </details>
     

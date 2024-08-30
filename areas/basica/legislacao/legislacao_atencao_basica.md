@@ -32,12 +32,16 @@ Os desafios incluem a integração das políticas públicas, a necessidade de re
 ## FAQ - Perguntas Frequentes
 
 <details>
-<summary>Quais são as principais leis que regem a Atenção Básica?</summary>
+<summary><strong>Quais são as principais leis que regem a Atenção Básica?</strong></summary>
+<p>
 As principais leis incluem a Lei nº 8.080/1990 (Lei Orgânica da Saúde), a Portaria GM/MS nº 2.436/2017 (PNAB) e o Decreto nº 7.508/2011 que regulamenta a organização do SUS.
+</p>
 </details>
 
 <details>
-<summary>Quais são os desafios na implementação da legislação de Atenção Básica?</summary>
+<summary><strong>Quais são os desafios na implementação da legislação de Atenção Básica?</strong></summary>
+<p>
 Os desafios incluem a integração das políticas públicas, a necessidade de recursos adequados e a capacitação contínua dos profissionais de saúde.
+</p>
 </details>
     
